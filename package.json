@@ -1,0 +1,34 @@
+{
+  "name": "integration",
+  "version": "0.0.1",
+  "description": "react-made, wordpress-backed, gatsby-served personal blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshanshrestha/Integration.git"
+  },
+  "keywords": [
+    "blog",
+    "react",
+    "wordpress",
+    "gatsby",
+    "node",
+    "personal-blog"
+  ],
+  "author": "Oshan Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oshanshrestha/Integration/issues"
+  },
+  "homepage": "https://github.com/oshanshrestha/Integration#readme",
+  "dependencies": {
+    "gatsby": "^1.9.203",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
